@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JRudransh
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning CyberSecurity
+- 🌱 I’m currently into Python Development & CyberSecurity
 - 📫 How to reach me Telegram, Twitter, Facebook, GitHub, ProtonMail: @JRudrash
 
 <!---
