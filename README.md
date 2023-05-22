@@ -7,7 +7,7 @@
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently into Python Development & CyberSecurity
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJRudransh&countColor=%23ba68c8&style=flat)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FJRudransh&countColor=%23ba68c8&style=flat)
 
 ### Languages
 
