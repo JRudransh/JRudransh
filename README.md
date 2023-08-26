@@ -4,8 +4,8 @@
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=JRudransh&theme=midnight-purple&hide_border=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently into Python Development & CyberSecurity
+- 👀 I’m interested in Product Delelopment
+- 🌱 I’m currently in the way of changing the world
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJRudransh&countColor=%23ba68c8&style=flat)
 
