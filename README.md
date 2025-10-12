@@ -23,7 +23,7 @@ Seasoned Development Team Lead with 4+ years of experience designing and operati
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     </td>
-    <td rowspan="9" valign="middle" width="35%">
+    <td rowspan="8" valign="middle" width="35%">
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JRudransh&theme=midnight-purple&hide_border=true" alt="GitHub Streak">
       <br>
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JRudransh&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10" alt="Top Languages">
@@ -65,15 +65,6 @@ Seasoned Development Team Lead with 4+ years of experience designing and operati
     </td>
   </tr>
   <tr>
-    <td><b>Testing</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
-      <img src="https://img.shields.io/badge/Locust-00AD45?style=for-the-badge&logo=locust&logoColor=white" alt="Locust">
-      <img src="https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Unittest">
-      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
-    </td>
-  </tr>
-  <tr>
     <td><b>OSs</b></td>
     <td>
       <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
@@ -93,6 +84,15 @@ Seasoned Development Team Lead with 4+ years of experience designing and operati
     <td>
       <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
       <img src="https://img.shields.io/badge/GPIO%20Integrations-555555?style=for-the-badge&logo=electronics&logoColor=white" alt="GPIO Integrations">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Testing</b></td>
+    <td colspan="2">
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
+      <img src="https://img.shields.io/badge/Locust-00AD45?style=for-the-badge&logo=locust&logoColor=white" alt="Locust">
+      <img src="https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Unittest">
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
     </td>
   </tr>
   <tr>
