@@ -1,7 +1,7 @@
 # Rudransh Jagannath
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I’m+Rudransh+Jagannath;👋+Hi,+I’m+Development+Team+Lead;👋+Hi,+I’m+Backend+Platform+Engineer;👋+Hi,+I’m+Security+Enthusiast)](https://github.com/JRudransh)
 
-📍 Mahipalpur, New Delhi, India | 📧 [jrudransh@proton.me](mailto:jrudransh@proton.me) | 🔗 [linkedin.com/in/jrudransh](https://linkedin.com/in/jrudransh) | ✍️ [medium.com/@jrudransh](https://medium.com/@jrudransh)
+📍 Guwahati, Assam, India | 📧 [jrudransh@proton.me](mailto:jrudransh@proton.me) | 🔗 [linkedin.com/in/jrudransh](https://linkedin.com/in/jrudransh) | ✍️ [medium.com/@jrudransh](https://medium.com/@jrudransh)
 
 Seasoned Development Team Lead with 4+ years of experience designing and operating large-scale backend systems. Skilled in leading SCRUM teams, driving Python API development, and enforcing security-first design. Passionate about automation, reliability, and rapid technology adoption (e.g., mastered OpenFGA in one week). Key achievements include 2x throughput improvement in Authorizer service, >95% code coverage, and zero issues in external pentests. Contributed to open-source projects like OpenFGA Python SDK and published articles on coding excellence.
 
@@ -23,7 +23,7 @@ Seasoned Development Team Lead with 4+ years of experience designing and operati
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     </td>
-    <td rowspan="10" valign="middle" width="35%">
+    <td rowspan="9" valign="middle" width="35%">
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JRudransh&theme=midnight-purple&hide_border=true" alt="GitHub Streak">
       <br>
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JRudransh&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10" alt="Top Languages">
@@ -40,31 +40,6 @@ Seasoned Development Team Lead with 4+ years of experience designing and operati
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-      <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-      <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Collaboration</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-    </td>
-  </tr>
-  <tr>
     <td><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -74,9 +49,27 @@ Seasoned Development Team Lead with 4+ years of experience designing and operati
     </td>
   </tr>
   <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Collaboration</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+      <img src="https://img.shields.io/badge/GitHub%20Projects-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects">
+    </td>
+  </tr>
+  <tr>
     <td><b>Testing</b></td>
     <td>
       <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
+      <img src="https://img.shields.io/badge/Locust-00AD45?style=for-the-badge&logo=locust&logoColor=white" alt="Locust">
+      <img src="https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Unittest">
       <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
     </td>
   </tr>
@@ -100,6 +93,20 @@ Seasoned Development Team Lead with 4+ years of experience designing and operati
     <td>
       <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
       <img src="https://img.shields.io/badge/GPIO%20Integrations-555555?style=for-the-badge&logo=electronics&logoColor=white" alt="GPIO Integrations">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td colspan="2">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines">
+      <img src="https://img.shields.io/badge/Pre-commit-000000?style=for-the-badge&logo=pre-commit&logoColor=white" alt="Pre-commit">
+      <img src="https://img.shields.io/badge/AWS%20Marketplace-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS Marketplace">
+      <img src="https://img.shields.io/badge/GCP%20Marketplace-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Marketplace">
+      <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant">
     </td>
   </tr>
   <tr>
