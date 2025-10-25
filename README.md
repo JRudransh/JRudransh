@@ -1,13 +1,26 @@
-**Building Scalable AI Systems for the Future**
+# Building Scalable AI Systems for the Future
 
-> “Turning complex data into fast, reliable decisions — at scale.”
+> “Turning complex data into fast, reliable decisions — at enterprise speed.”
 
-- **Focus**: Backend Architecture • AI Infrastructure • Secure Code  
-- **Open-Source**: Contributor to [OpenFGA](https://github.com/openfga)  
-- **Writing**: [Medium – Clean Code](link) • [Medium – Code Security](link)  
-- **Exploring**: RAG Pipelines • Edge AI • Self-Healing Systems  
+**Designing backend infrastructure that scales.**
+From 100M+ daily events to <100ms latency — **built to grow, not break.**
 
-Let’s build something amazing — together.
+**My Focus**
+- Turning hard problems into **simple, secure solutions**
+- Shipping systems that **evolve without downtime**
+- Designing for **tomorrow’s needs — today**
+
+**Open-Source Contributor**
+- [OpenFGA](https://github.com/openfga) — Fine-grained auth at scale
+- [2 Medium Articles](https://medium.com/@jrudransh) — Clean Code & Security
+
+**Currently Exploring**
+- AI that makes work **smarter, not harder**
+- The **invisible backend** behind great products
+- Creating spaces where **big ideas become reality**
+
+
+#AI #Backend #OpenSource #FutureOfTech
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/JRudransh&countColor=#ba68c8&style=flat)
 
@@ -133,10 +146,6 @@ Let’s build something amazing — together.
     </td>
   </tr>
 </table>
-
---------------
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=JRudransh&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
 
 ### 🚀 Proven Impact
 | Achievement | Impact |
